@@ -1,0 +1,47 @@
+Java
+
+    Java generics
+    Java annotations
+
+    Java IO
+        By youtube kody simson
+
+    Java API For Websockers
+        https://app.pluralsight.com/library/courses/oracle-performance-tuning-developers/table-of-contents
+
+    Java FF
+        (Douglas Schmidt) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp57EQIDnyQ3F-8EqW4ejz8V
+
+
+    Java concurrency
+        (Very basics of threading) https://app.pluralsight.com/library/courses/java-concurrency-implementing-certification-1z0-819/table-of-contents
+        (Java 8 async) https://app.pluralsight.com/library/courses/java-fundamentals-asynchronous-programming-completionstage/table-of-contents
+        - suggest to take up reactive programming here to move onto the spring webclient -
+        (But more advanced threading) https://app.pluralsight.com/library/courses/java-patterns-concurrency-multi-threading/table-of-contents
+        - watch FF Doublas Schmidt video first -
+        (Douglas Schmidt - FF and parallelism) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6ca8KCAjj3HaworY-mqmCe
+
+        (Intro) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5IXdKoYi32ZaAshVN3jpCz
+        (In depth) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7aa8ZEWpoFOf_lNn-4YN5E
+        
+
+
+    JVM 
+        (JVM Memory management) https://app.pluralsight.com/library/courses/understanding-java-vm-memory-management/table-of-contents
+        Performance tuning
+            https://app.pluralsight.com/library/courses/java-performance-tuning/table-of-contents
+        JDK Flight recorder
+
+        ... JMX, Prometheus, Spring actuator with prometheus, Spring Monitoring with JMX
+
+
+    Java NIO
+        On pluralsight
+
+
+    Misc
+        ✓ Log4j Shell Vulnerability - Java brains ✓
+        Java date time
+    
+
+    Design patterns

@@ -1,0 +1,29 @@
+Java
+    Threads
+    Working with nulls
+    Apache http client
+
+Spring
+    REST
+    Data jpa
+    JDBC
+    Security + Oauth2 + OpenId
+    Logging
+    Actuator
+    Testing
+
+
+
+Devops
+    Git
+    Jenkins
+    Linux
+        Core, Networking
+    Docker
+    Curl
+
+
+OOPs
+
+Eclipse
+    Debugging

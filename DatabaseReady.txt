@@ -1,0 +1,3 @@
+DATABASES
+    Different types of databases - freecodecamp - in software playlist
+Oracle for developers series pluaralsight

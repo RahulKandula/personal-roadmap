@@ -1,0 +1,193 @@
+
+0000000000000000000000
+    ✓ Salesforce tasks ✓
+    SBP Merge changes
+0000000000000000000000
+
+++++++++++++++++++++++++++++++++
+    Spring REST -  https://app.pluralsight.com/library/courses/spring-rest/table-of-contents
+    Working with nulls in java 11 https://www.pluralsight.com/courses/working-nulls-java
+    ✓ Logging   (Spring boot logging basics) https://www.youtube.com/watch?v=lGrcZsw-hKQ ✓
+    ✓ Log4j Shell Vulnerability - Java brains ✓
+    Spring JPA Including @Transaction
+        https://app.pluralsight.com/library/courses/spring-jpa-hibernate/table-of-contents
+        https://app.pluralsight.com/library/courses/spring-data-jpa-getting-started/table-of-contents
+    Spring Boot actuator
+        https://app.pluralsight.com/library/courses/spring-framework-spring-boot-actuator/table-of-contents
+++++++++++++++++++++++++++++++++
+Java generics
+Java annotations
+Maven - https://app.pluralsight.com/library/courses/maven-fundamentals/table-of-contents
+Struts - java brains
+Lombok https://www.youtube.com/watch?v=v6Ea3_GnKG0&list=PL6oD2syjfW7CchnxJKhJ8IiY61efkyL8h
+
+
+
+
+Spring testing demo
+   ✓ https://www.youtube.com/watch?v=aEW8ZH6wj2o ✓
+   https://www.youtube.com/watch?v=pNiRNRgi5Ws
+Java unit testing
+    Mockito, mockmvc
+using h2 in java - pluralsight
+Unit testing concepts
+
+22222222222222222222222222222
+GIT
+Using Keypass
+22222222222222222222222222222
+
+
+
+JS Development environment - pluralsight
+NodeJs - java brains
+Simpson videos on JS
+Kendo UI with MVVM
+        
+
+
+
+1.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.5
+    https://github.com/readme/guides/functional-programming-basics
+    Java streams - from pluralsight?
+        Pluralight from collections to streams
+        https://app.pluralsight.com/library/courses/java-streams-process-analyze-data-memory/table-of-contents
+    More on functional programming
+        https://www.youtube.com/watch?v=93wmBmwsAAM&list=PLZ9NgFYEMxp57EQIDnyQ3F-8EqW4ejz8V&index=5
+1.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.51.5   
+
+
+Spring boot Basics - pluralsight
+
+Spring 5 core
+    annotations like @Configuration, @Qualifier etc
+Spring boot advanced
+    https://www.pluralsight.com/courses/spring-boot-efficient-development-configuration-deployment
+Spring Application events
+    https://www.youtube.com/watch?v=oTTfaynD1Xc
+
+
+Postman https://app.pluralsight.com/library/courses/postman-fundamentals/table-of-contents
+More on Java streams https://app.pluralsight.com/library/courses/java-8-data-processing-streams-collectors-optionals/table-of-contents
+
+
+
+More on logging
+        https://app.pluralsight.com/library/courses/java-core-libraries-log-system/table-of-contents
+        https://www.youtube.com/watch?v=Y-yTG4xi_Qg Logback tutorial
+        https://www.youtube.com/watch?v=SWHYrCXIL38
+        https://www.youtube.com/watch?v=uyq8yxWO1ls
+
+
+Java IO and NIO
+Spring boot how to download or upload file - code java youtube channel
+
+Spring Data rest course pluralsight
+
+Reactive programming - java brains
+
+Spring REST Versioning
+    https://app.pluralsight.com/library/courses/spring-framework-versioning-spring-data-rest-apis/table-of-contents
+
+
+LINUX FOR RIGHT NOWWWW
+    https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
+
+Must have in linux
+    Grep, sed, awk - https://www.pluralsight.com/courses/linux-administration-sed-awk
+
+
+
+Web Security Course on Pluralsight
+
+Jackson
+Java Ear packaging with application.xml
+
+OOPs Uncle Bob
+ComposingPrograms.com - primer to sicp
+
+
+Infor LN docs - logistics
+
+
+Probable Next
+
+    https://app.pluralsight.com/library/courses/java-securing-web-applications-aaa/table-of-contents
+
+    HTTP
+    HTTPs
+    APache http client
+        https://www.youtube.com/watch?v=aJc166sLjuQ&list=PLD2TwGUt9I4CDFmQLuCZRq6qVqwnWuhTg&index=3
+
+    
+
+    Spring MVC - pluralsight
+
+    Full functional programming concepts - https://www.youtube.com/watch?v=G8JWoBEaWWc&list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF&index=20 (SICP)
+    Books to understand more of oops concepts
+
+    Spring core
+
+    Jenkins
+
+    May be grokking functional programming book when i can afford it
+===============================================
+
+Basic Math and DS and Algos
+Typescript
+React
+HTML CSS And Bootstrap
+
+Thinking fast and slow and Flow book
+
+More to explore
+    REST philosophy
+    Designing API 
+    Java VM https://app.pluralsight.com/library/courses/understanding-java-vm-memory-management/table-of-contents
+    Java IDE - may be eclipse and its tools
+    Different new additions in Java versions
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
+
+Flow summary
+    
+    we all crave meaning
+
+    Think of your life like a game
+
+
+    Give your dreams legs
+        an overaching life theme with actionable items
+
+    but we tend to be basic - do not be basic - do not be afriad of imperfection
+        instant gratification vs enjoyment
+    find about the flow 
+        slightly challenging thkngs with immediate feedback. no external gratification
+    Developing YOUR flow
+        just a slight bit curious for just this day
+
+
+    In hard times Increase your focus and decrease the anxiety
+        surrender the ego
+        connect with the present environment
+
+
+    Fine tune your senses
+        just the sight and sound
+    Retrain your brain
+        think outwards - think of some fun puzzles to solve
+
+
+    Connect with the community
+
+
+
+=============================================================================================================

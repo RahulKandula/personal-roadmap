@@ -1,0 +1,42 @@
+SPRING
+    Spring form and basic security
+        https://app.pluralsight.com/library/courses/spring-framework-securing-applications-against-common-security-threats/table-of-contents
+        One more course from Wlesniak on pl
+        Fun stuff to explore:
+            know a bit more on mvc matchers
+            different authentication mechanisms and various possible web attacks are shown in module 2. can we put them into code.
+            setup diff authentication mechanism within the same app. Users get google oauth. admins get in house in db authentication.
+
+        (MVC and Ant matchers) https://www.youtube.com/watch?v=4GJzxZnCdBU
+        
+
+    Spring Oauth 2 security
+        https://app.pluralsight.com/library/courses/oauth2-spring-security-spring-boot/table-of-contents
+
+
+    Spring boot testing intro
+       ✓ https://www.youtube.com/watch?v=aEW8ZH6wj2o ✓
+        https://www.youtube.com/watch?v=pNiRNRgi5Ws
+
+    Spring dev tools project
+
+    Rest
+        https://app.pluralsight.com/library/courses/spring-rest/table-of-contents
+
+
+
+
+Swagger and springfox intro
+
+... Rameshwar JD
+
+... Html/CSS, Bootstrap
+... Typescript and Angular
+
+... Quarkus / micronaut
+... AWS
+
+
+... Chrome dev tools
+
+... SpringDeveloper youtube channel

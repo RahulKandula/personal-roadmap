@@ -1,0 +1,158 @@
+for tommorrow
+    API Documentation
+         ✓ (Hateoas intro by java brains)  https://www.youtube.com/watch?v=NK3HNEwDXUk&t=448s
+         - pending code dump -(Spring hateoas talk) https://www.youtube.com/watch?v=nVEmfmdDUXU&t=515
+         springfox and swagger Pluralsight
+
+
+
+    threads sync module
+    jvm memory basics
+    mild idea on analysing thread dumps
+        https://www.baeldung.com/java-analyze-thread-dumps#:~:text=Depending%20on%20the%20issue%2C%20ignore,most%20importantly%2C%20use%20Analyzer%20tools
+    java date time
+            https://app.pluralsight.com/library/courses/java-dates-times-programming/table-of-contents
+    springfox and swagger Pluralsight
+
+
+
+
+    API
+         (Quality API) https://www.youtube.com/watch?v=P0a7PwRNLVU&t=969s
+
+    very mild idea on ds connection pool setup in jboss
+        http://www.mastertheboss.com/jbossas/jboss-datasource/jboss-datasource-configuration/
+
+
+    more on spring hateoas (really interesting)
+        https://www.youtube.com/watch?v=o4cc6KzNrpI
+    (Hal explorer) https://www.youtube.com/watch?v=hW7JmG3vyV4
+    spring rest versioning pluralsight
+
+current started on
+    low level threading in java
+    jvm memory management basics
+    async patterns in java 
+    FF paradigms douglash schmidt
+    reactive programming java brains
+    java io kody simson
+    spring webclient documentation
+    intro to websockets api java
+    spring webclient documentation
+    = and done =
+    
+
+    linux subnetting
+    rest of the linux course by networkchuk
+    port security networkchuck
+    Docker compose Programming with mosh docker compose
+        https://www.youtube.com/watch?v=HG6yIjZapSA
+    linux networking and routing    https://app.pluralsight.com/library/courses/lfcs-linux-networking/table-of-contents
+    Docker networking from network chuck
+    Network chuck bash scripting
+    linux webservices https://app.pluralsight.com/library/courses/linux-managing-web-services-lpic-2/table-of-contents
+    pluralsight linux http and nginx if needed
+    youtube jboss eap
+    = and done =
+
+    spring rest, working with nulls
+    spring data jpa with hibernate
+    = and done =
+
+
+
+
+Before second round
+
+    Kafka intro 
+        https://app.pluralsight.com/library/courses/designing-event-driven-applications-apache-kafka-ecosystem/table-of-contents
+
+    JVM fundamentals in pluralsight https://app.pluralsight.com/library/courses/understanding-java-vm-memory-management/table-of-contents
+    Nosql dbs https://www.youtube.com/watch?v=xh4gy1lbL2k
+
+    Spring with mongodb
+        https://app.pluralsight.com/library/courses/spring-framework-data-mongodb/table-of-contents
+
+
+Java
+
+    Java generics
+    Java annotations
+
+    Java IO
+        By youtube kody simson
+
+    Java API For Websockers
+        https://app.pluralsight.com/library/courses/oracle-performance-tuning-developers/table-of-contents
+
+    Java FF
+        (Douglas Schmidt) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp57EQIDnyQ3F-8EqW4ejz8V
+
+
+    Java concurrency
+        (Intro) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5IXdKoYi32ZaAshVN3jpCz
+        (In depth) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7aa8ZEWpoFOf_lNn-4YN5E
+        (Douglas Schmidt - FF and parallelism) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6ca8KCAjj3HaworY-mqmCe
+
+
+
+    Reactive programming
+        (Java brains)
+        (Douglas Schmidt) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6WomQBCUPnDML29LDjYNCj
+
+    Java NIO
+        On pluralsight
+
+
+
+
+One path:
+    Agile for one
+
+Second:
+    Jboss-eap
+Third
+    ✓ Apache http client
+
+    A very basic primer on Linux server (https://www.youtube.com/watch?v=2Btkx9toufg&t=120)
+    Check out docker mount options by nana
+    Static IP beginner guide 
+        https://www.youtube.com/watch?v=kGUhSOBP4HM&list=PLD2TwGUt9I4CDFmQLuCZRq6qVqwnWuhTg&index=2
+
+    HTTPs VS SSL
+        https://www.youtube.com/watch?v=10aVMoalON8
+    Installing certs on linux
+        https://www.youtube.com/watch?v=xzw-j6TJYI
+
+    Spring reactive programming
+    Spring webclient https://docs.spring.io/spring-framework/docs/5.0.13.RELEASE/spring-framework-reference/web-reactive.html#webflux-client
+    Spring security
+    Spring oauth security
+
+Fourth
+    Spring rest
+    working with nulls
+    spring data jpa
+
+
+
+Failed
+    More in depth of java
+        Different ways of synchronization - esp low level java synchronization
+    Ways to monitor spring boot app in realtime
+    Ways to maintain code quality in the services
+    Why and How to manage custom exceptions in java apps
+    Nosql databases
+    Kafka and RabbitMq
+    Database performance tuning
+
+
+Insults
+    are you asking me a question? I am asking you a question
+    you must be writing so much code on this - may be you are a bad developer
+    what do you do in your free time!!
+    it is a complex system - can you even handle it!
+
+
+More official channels
+    https://www.youtube.com/c/SpringBootLearning/playlists
