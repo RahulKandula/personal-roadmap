@@ -13,6 +13,8 @@ Spring
     Actuator
     Testing
 
+    HATEOAS
+
 
 
 Devops
