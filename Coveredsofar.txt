@@ -2,6 +2,7 @@ Java
     Threads
     Working with nulls
     Apache http client
+    JVM Memory management basics
 
 Spring
     REST
