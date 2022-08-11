@@ -1,9 +1,10 @@
 Linux
     (NetworkChuck - Linux for hackers course) https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
     (NetworkChuck - Subnetting) https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF
+    (Quickie on ssh-keygen) https://www.youtube.com/watch?v=ZKZbPZCnHRE (There is one more in software playlist)
     Bash scripting
     Cygwin- our issue with it in azure desktop
-    (Quickie on ssh-keygen) https://www.youtube.com/watch?v=ZKZbPZCnHRE
+    
     Try courses from a cloud guru i.e. 
         Or go with these
         https://app.pluralsight.com/library/courses/lfcs-linux-networking/table-of-contents
