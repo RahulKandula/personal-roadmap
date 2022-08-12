@@ -1,2 +1,6 @@
-Nodejs java brains
 Setting up dev environment for JS dev Pluralsight course
+Nodejs java brains
+Webassembly
+
+
+Kendojs
