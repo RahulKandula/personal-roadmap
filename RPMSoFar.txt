@@ -1,0 +1,48 @@
+Boot apps
+    Hosting them in local and deploying them back in prod
+    Testing with postman
+    PENDING - need to try testing with curl
+
+SFA
+    Fix pom.xml file to weed out extra dependencies
+        HomepageEar and Qa22Ear
+
+Scanner
+    Add reason code dropdown to Inventory transfer transaction
+    Sort by lot in allocate then release txn
+    Refactor Unblock Stock point from Block stock point
+
+Stonhard 
+    Salesforce app
+        Send ob status name to salesforce
+        Populate ACCOUNT_PRODUCT_LINES and ACCOUNTS_PROTECTED from Salesforce
+        Call SFA Account update anonymous link from the app
+    SFA App
+        Sfa anonymous link to call AccountAction.save
+        Send Quote and Ob deletes status to Salesforce
+        Push ob status updates in all stages
+        Change additional account selection in quotes to earlier
+        Redirect few users to salesforce
+        Fix NPE in Quote copy from template and Quote print
+        Fix ProjectEmailAction
+        Fix slow load up of Adv Project search screen
+        Enable max price break in SFA
+
+SBP Merge
+    Fix Quote security to filter house account territories
+    Fix ForecastingWar
+    Fix TM dropdowns in Commissions page. Inactive people filter
+    Fix failing Stonhard jobs
+    Missing Mexico hier regions
+    Fix Qa22 - DetermineHighestRep and House_account.
+    Copy paste issue in QuotesWar.createObFromQa22
+
+
+Errors
+    301 for http vs https
+    Older hibernate id generation
+    Char columns to have padded spaces when used in Hibernate key
+    Not commiting transactions before calling other anonymous links
+    Using PlatformTransactionMgr, TransactionTemplate, ApplicationEventManager, @Transaction in another @Transactional
+    Serverpeerid missing in local
+    Not checking out StonhardUiEar, StonhardBaanReportsWar
