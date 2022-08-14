@@ -21,8 +21,9 @@ Devops
     Git
     Jenkins
     Linux
-        Core, Subnetting
-    Docker
+        Core
+        Subnetting by network chuck
+    Docker 
     Curl
 
 
