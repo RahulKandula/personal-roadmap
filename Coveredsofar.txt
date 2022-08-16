@@ -22,8 +22,11 @@ Devops
     Jenkins
     Linux
         Core
-        Subnetting by network chuck
-    Docker 
+        Networking
+            Subnetting by network chuck
+        Virtualization
+            Hyper-V
+            Docker 
     Curl
 
 

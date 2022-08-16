@@ -7,6 +7,10 @@ Docker
 
 Virtual box
     Basics by Networkchuck
+    Installing Ubuntu on Hyper-v https://www.youtube.com/watch?v=ACUhGz4_Ceo
+    Network chuck advanced videos
+        VMWare Type1 on Raspberry pi
+        Virtual machines pt 2
 
 Linux
     (NetworkChuck - Linux for hackers course) https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
