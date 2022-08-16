@@ -24,19 +24,21 @@ SPRING
         https://app.pluralsight.com/library/courses/spring-rest/table-of-contents
 
 
+Apache http client
+   ✓ (Basics one from youtube)  https://www.youtube.com/watch?v=aJc166sLjuQ&list=PLD2TwGUt9I4CDFmQLuCZRq6qVqwnWuhTg&index=3 ✓
+
 
 
 Swagger and springfox intro
 
-... Rameshwar JD
-
-... Html/CSS, Bootstrap
-... Typescript and Angular
-
-... Quarkus / micronaut
-... AWS
 
 
-... Chrome dev tools
+   ... Spring reactive programming java brains, spring webclient
+   ... Mongo DB, Influx DB, Apache Kafka
 
-... SpringDeveloper youtube channel
+
+
+
+    ... Quarkus / micronaut
+    ... AWS
+    ... SpringDeveloper youtube channel

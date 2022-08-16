@@ -1,26 +1,33 @@
+Docker 
+    ✓ (NetworkChuck Docker basics) https://www.youtube.com/watch?v=eGz9DS-aIeY&t=174s ✓
+    ✓ (NetworkChuck Running docker on windows) https://www.youtube.com/watch?v=eZpLjKv9xvA&t=1588s✓
+    ✓ (Basics of Dockerfile) https://www.youtube.com/watch?v=SnSH8Ht3MIc ✓
+    Docker volumes by nana
+    https://app.pluralsight.com/library/courses/getting-started-docker/table-of-contents
+
+Virtual box
+    Basics by Networkchuck
+
 Linux
     (NetworkChuck - Linux for hackers course) https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
     ✓ (NetworkChuck - Subnetting) https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF ✓
     (Quickie on ssh-keygen) https://www.youtube.com/watch?v=ZKZbPZCnHRE (There is one more in software playlist)
     Bash scripting
     Cygwin- our issue with it in azure desktop
-    
+    Ansible by networkchuck
+
+Linux networking and webservices
+    Video on port security Networkchuck
+    Video on nmap Networkchuck
     Try courses from a cloud guru i.e. 
         Or go with these
         https://app.pluralsight.com/library/courses/lfcs-linux-networking/table-of-contents
         https://app.pluralsight.com/library/courses/linux-managing-web-services-lpic-2/table-of-contents
         linux networking, network routing basics, linux webservices securing linux
-
-Linux Apache and nginx
-    https://app.pluralsight.com/library/courses/linux-managing-web-services-lpic-2/table-of-contents
-
-Jboss eap
-    https://www.youtube.com/playlist?list=PL09NkvEHuNCdEEkCwUSlTA9UKlR4jo8rc
-
-Apache http client
-   ✓ (Basics one from youtube)  https://www.youtube.com/watch?v=aJc166sLjuQ&list=PLD2TwGUt9I4CDFmQLuCZRq6qVqwnWuhTg&index=3 ✓
-
-    Spring reactive programming java brains, spring webclient
+        Linux Apache and nginx
+            https://app.pluralsight.com/library/courses/linux-managing-web-services-lpic-2/table-of-contents
+        Jboss eap
+            https://www.youtube.com/playlist?list=PL09NkvEHuNCdEEkCwUSlTA9UKlR4jo8rc
 
 
 ... Postman, Http basics, Tomcat
@@ -28,12 +35,7 @@ Apache http client
 
 A cloud guru WSL
 
-Docker 
-    ✓ (NetworkChuck Docker basics) https://www.youtube.com/watch?v=eGz9DS-aIeY&t=174s ✓
-    ✓ (NetworkChuck Running docker on windows) https://www.youtube.com/watch?v=eZpLjKv9xvA&t=1588s✓
-    ✓ (Basics of Dockerfile) https://www.youtube.com/watch?v=SnSH8Ht3MIc ✓
-    Docker volumes by nana
-    https://app.pluralsight.com/library/courses/getting-started-docker/table-of-contents
+
 
 
 Jenkins
