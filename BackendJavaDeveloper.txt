@@ -29,6 +29,9 @@ Apache http client
 
 
 
+... junit, mockito, mockmvc, h2 for testing, testcontainers, TDD
+
+
 Swagger and springfox intro
 
 
