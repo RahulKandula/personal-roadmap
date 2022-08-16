@@ -23,6 +23,9 @@ SPRING
     Rest
         https://app.pluralsight.com/library/courses/spring-rest/table-of-contents
 
+    Spring with Docker
+        https://www.youtube.com/watch?v=APuEFmm8N_g
+
 
 Apache http client
    ✓ (Basics one from youtube)  https://www.youtube.com/watch?v=aJc166sLjuQ&list=PLD2TwGUt9I4CDFmQLuCZRq6qVqwnWuhTg&index=3 ✓
@@ -30,6 +33,7 @@ Apache http client
 
 
 ... junit, mockito, mockmvc, h2 for testing, testcontainers, TDD
+
 
 
 Swagger and springfox intro

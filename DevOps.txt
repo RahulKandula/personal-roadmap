@@ -1,8 +1,12 @@
+Basics of networking
+    Networkchuck playlist on free ccna
+
 Docker 
     ✓ (NetworkChuck Docker basics) https://www.youtube.com/watch?v=eGz9DS-aIeY&t=174s ✓
     ✓ (NetworkChuck Running docker on windows) https://www.youtube.com/watch?v=eZpLjKv9xvA&t=1588s✓
     ✓ (Basics of Dockerfile) https://www.youtube.com/watch?v=SnSH8Ht3MIc ✓
     Docker volumes by nana
+    Docker networking by networkchuck
     https://app.pluralsight.com/library/courses/getting-started-docker/table-of-contents
 
 Virtual box
@@ -39,6 +43,9 @@ Linux networking and webservices
 
 A cloud guru WSL
 
+
+Kubernetes 
+    Network chuck
 
 
 
