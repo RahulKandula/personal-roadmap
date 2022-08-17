@@ -1,19 +1,12 @@
-for tommorrow
-    API Documentation
-         ✓ (Hateoas intro by java brains)  https://www.youtube.com/watch?v=NK3HNEwDXUk&t=448s
-         - pending code dump -(Spring hateoas talk) https://www.youtube.com/watch?v=nVEmfmdDUXU&t=515
-         springfox and swagger Pluralsight
-
-
-
-    threads sync module
-    jvm memory basics
-    mild idea on analysing thread dumps
-        https://www.baeldung.com/java-analyze-thread-dumps#:~:text=Depending%20on%20the%20issue%2C%20ignore,most%20importantly%2C%20use%20Analyzer%20tools
-    java date time
-            https://app.pluralsight.com/library/courses/java-dates-times-programming/table-of-contents
-    springfox and swagger Pluralsight
-
+Mongodb
+spring with mongodb
+apache kafka
+influx db
+spring with influx db
+spring with apache kafka
+spring data jpa
+linux path till jboss
+java ff from douglas schmidt
 
 
 
