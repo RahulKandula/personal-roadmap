@@ -8,6 +8,11 @@ spring data jpa
 linux path till jboss
 java ff from douglas schmidt
 
+junit, mockito and mockmvc
+tdd philosophy
+memcached
+redis cache
+
 
 
     API
