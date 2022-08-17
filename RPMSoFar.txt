@@ -27,6 +27,7 @@ Stonhard
         Fix ProjectEmailAction
         Fix slow load up of Adv Project search screen
         Enable max price break in SFA
+        Debugged price issue with one product
 
 SBP Merge
     Fix Quote security to filter house account territories
