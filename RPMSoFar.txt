@@ -25,9 +25,10 @@ Stonhard
         Redirect few users to salesforce
         Fix NPE in Quote copy from template and Quote print
         Fix ProjectEmailAction
-        Fix slow load up of Adv Project search screen
+        Fix slow load up of Adv Project search screen and Quote adv search screen
         Enable max price break in SFA
         Debugged price issue with one product
+
 
 SBP Merge
     Fix Quote security to filter house account territories
