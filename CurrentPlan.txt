@@ -2,6 +2,8 @@ Mongodb
 spring with mongodb
 apache kafka
 spring with apache kafka
+influx db
+spring with influx db
 
 
 
@@ -57,10 +59,6 @@ java websocket api
 
 postman
 http basics
-
-
-influx db
-spring with influx db
 
 
     API
