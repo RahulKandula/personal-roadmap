@@ -27,6 +27,7 @@ Devops
         Virtualization
             Hyper-V
             Docker 
+        Bash scripting
     Curl
 
 
@@ -41,4 +42,4 @@ Eclipse
 
 
 Javascript
-    jquery document functions
+    jquery document ready functions

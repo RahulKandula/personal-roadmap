@@ -1,24 +1,16 @@
-openssh in linux video
-setting up github ssh in ubuntu vm
-linux basics from networkchuk
-
-
 Mongodb
 spring with mongodb
 apache kafka
 spring with apache kafka
-spring data jpa
-influx db
-spring with influx db
 
 
-postman
-http basics
+
+rest of spring security
 webclient with outh2 in place
 
 java ff from douglas schmidt
-java io basics
-downloading files in spring boot
+java reactive programming java brains
+
 
 
 git
@@ -30,8 +22,45 @@ tdd philosophy
 memcached
 redis cache
 
+
+spring data jpa
+
+
+openssh in linux video
+    setting up github ssh in ubuntu vm
+    checking in bash script into github
+linux for everyone from networkchuk
+linux bash scripting from networkchuk
+ccna playlist networkchuck
+freecodecamp linux networking
+docker networking networkchuck
+linux webservices
+ansible networkchuck
+kubernets networkchuck
+
+
+java dates
+java annotations
+java generics
+java io basics
+downloading files in spring boot
+
+
+
+
+java ide basics
+
+
+
 java websocket api
 
+
+postman
+http basics
+
+
+influx db
+spring with influx db
 
 
     API
