@@ -15,17 +15,19 @@ Spring
     HATEOAS
 
 Devops
-    Git
-    Jenkins
     Linux
-        Core
-        Networking
-            Subnetting by network chuck
         Virtualization
             Hyper-V
             Docker 
+        Core
+            package managers
+            common linux folder
+        Networking
+            Subnetting by network chuck
         Bash scripting
     Curl
+    Git
+    Jenkins
 
 OOPs
     House with state

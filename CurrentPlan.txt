@@ -1,64 +1,84 @@
-Mongodb
-spring with mongodb
-apache kafka
-spring with apache kafka
-influx db
-spring with influx db
-
-
-
-rest of spring security
-webclient with outh2 in place
-
-java ff from douglas schmidt
-java reactive programming java brains
-
-
-
-git
-egit
-
-
-junit, mockito and mockmvc
-tdd philosophy
-memcached
-redis cache
-
-
-spring data jpa
-
 
 openssh in linux video
     setting up github ssh in ubuntu vm
     checking in bash script into github
+
+java dates
+
+Mongodb
+spring with mongodb
+
+apache kafka
+spring with apache kafka
+
+
+java generics
+java io basics
+downloading files in spring boot
+
+rest of spring security
+webclient with outh2 in place
+
+
+java annotations
+
+influx db
+spring with influx db
+
+sonarqube basics
+
+junit, mockito and mockmvc
+
+java ff from douglas schmidt
+
+jenkins
 linux for everyone from networkchuk
 linux bash scripting from networkchuk
+sed and awk
+Docker compose
+git
+egit
+
+
+
 ccna playlist networkchuck
 freecodecamp linux networking
 docker networking networkchuck
 linux webservices
 ansible networkchuck
 kubernets networkchuck
+fzf (Kris Ochipinti)
 
 
-java dates
-java annotations
-java generics
-java io basics
-downloading files in spring boot
 
 
+tdd philosophy
+google guava cache
+memcached
+redis cache
+
+postman
+http basics
+
+
+spring data jpa
+
+
+java websocket api
+
+
+
+
+
+java reactive programming java brains
 
 
 java ide basics
 
 
 
-java websocket api
 
 
-postman
-http basics
 
 
     API
