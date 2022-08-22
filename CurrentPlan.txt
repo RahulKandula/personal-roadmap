@@ -1,4 +1,16 @@
 
+Keywords
+    OATIReady, RPMFinalize
+    ReactReady, Tailwing/BootstrapReady, AWSEssentialsReady, FNPReady,
+    QuarkusReady, MicronautReady, DSBookReady, SystemDesignReady, Tuning.comReady
+    IELTSReady
+    NandToTetrisReady, MathReady, DSReady
+
+    BigDataReady
+    LeetCodeReady, AlgoCompetitionReady
+    PythonReady, CTFReady
+    DataScienceReady
+
 openssh in linux video
     setting up github ssh in ubuntu vm
     checking in bash script into github
