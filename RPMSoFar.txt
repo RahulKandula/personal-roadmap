@@ -11,6 +11,7 @@ Scanner
     Add reason code dropdown to Inventory transfer transaction
     Sort by lot in allocate then release txn
     Refactor Unblock Stock point from Block stock point
+    Shifted Inventory transfer code to a new branch
 
 Stonhard 
     Salesforce app
@@ -28,16 +29,18 @@ Stonhard
         Fix slow load up of Adv Project search screen and Quote adv search screen
         Enable max price break in SFA
         Debugged price issue with one product
+        Fixed NPE in Forecasting app updates - old forecasting ear in the server
 
 
 SBP Merge
-    Fix Quote security to filter house account territories
-    Fix ForecastingWar
+    Fix Account and Quote security to filter house account territories
+    Fix ForecastingWar sbp merge errors
     Fix TM dropdowns in Commissions page. Inactive people filter
     Fix failing Stonhard jobs
     Missing Mexico hier regions
     Fix Qa22 - DetermineHighestRep and House_account.
     Copy paste issue in QuotesWar.createObFromQa22
+    Fix active and closed project search in quotes
 
 
 Errors

@@ -1,15 +1,17 @@
-
 Keywords
     OATIReady, RPMFinalize
-    ReactReady, Tailwing/BootstrapReady, AWSEssentialsReady, FNPReady,
-    QuarkusReady, MicronautReady, DSBookReady, SystemDesignReady, Tuning.comReady
+    ReactReady, Tailwind/BootstrapReady, AWSEssentialsReady, FNPReady,
+    MathReady, DSBookReady, DSReady, LeetCodeReady
+    QuarkusReady, MicronautReady, SystemDesignReady, Tuning.comReady
     IELTSReady
-    NandToTetrisReady, MathReady, DSReady
+    NandToTetrisReady
 
     BigDataReady
-    LeetCodeReady, AlgoCompetitionReady
+    AlgoCompetitionReady
     PythonReady, CTFReady
     DataScienceReady
+
+
 
 openssh in linux video
     setting up github ssh in ubuntu vm
@@ -23,27 +25,29 @@ spring with mongodb
 apache kafka
 spring with apache kafka
 
-
-java generics
 java io basics
 downloading files in spring boot
 
 rest of spring security
 webclient with outh2 in place
 
+sonarqube basics
+
 
 java annotations
+java generics
 
-influx db
-spring with influx db
 
-sonarqube basics
 
 junit, mockito and mockmvc
 
 java ff from douglas schmidt
 
+influx db (influx university)
+spring with influx db
+
 jenkins
+maven
 linux for everyone from networkchuk
 linux bash scripting from networkchuk
 sed and awk
@@ -51,6 +55,8 @@ Docker compose
 git
 egit
 
+
+using h2 for unit testing
 
 
 ccna playlist networkchuck
@@ -60,7 +66,7 @@ linux webservices
 ansible networkchuck
 kubernets networkchuck
 fzf (Kris Ochipinti)
-
+sed of linux
 
 
 
@@ -79,10 +85,10 @@ spring data jpa
 java websocket api
 
 
-
-
-
 java reactive programming java brains
+
+
+
 
 
 java ide basics

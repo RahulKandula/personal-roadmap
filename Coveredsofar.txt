@@ -21,16 +21,18 @@ Devops
             Docker 
         Core
             package managers
-            common linux folder
+            common linux folders
         Networking
             Subnetting by network chuck
         Bash scripting
     Curl
-    Git
+    Git and Egit
+        reverting commits
+        push into remote using git
     Jenkins
 
 OOPs
-    House with state
+    House with proper well defined rooms like prepare() and with complete healthy state
     One more house on top of it
 
 Eclipse
@@ -41,3 +43,14 @@ Javascript
 
 Oracle DB
     Basic query tuning
+
+Struts2
+    Chaining interceptors
+    Global results
+    Chain result
+    Prepare
+    Filter chains
+
+
+Postman
+    Sending all types of requests with basic and bearer authentication
