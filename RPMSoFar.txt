@@ -19,6 +19,7 @@ Stonhard
         Populate ACCOUNT_PRODUCT_LINES and ACCOUNTS_PROTECTED from Salesforce
         Call SFA Account update anonymous link from the app
     SFA App
+        Add a new Terr type mapping
         Sfa anonymous link to call AccountAction.save
         Send Quote and Ob deletes status to Salesforce
         Push ob status updates in all stages

@@ -1,26 +1,39 @@
 Keywords
-    OATIReady, RPMFinalize
-    ReactReady, Tailwind/BootstrapReady, AWSEssentialsReady, FNPReady,
-    MathReady, DSBookReady, DSReady, LeetCodeReady
-    QuarkusReady, MicronautReady, SystemDesignReady, Tuning.comReady
+    RPMFinalize, OATIReady
+    ReactReady, Tailwind/BootstrapReady, AWSEssentialServicesReady, QuarkusReady, FNPReady
+    MathReady, DSBookReady, NandToTetrisReady, DSReady, LeetCodeReady
+    Tuning.comReady
+    QuarkusReady, MicronautReady, SystemDesignReady 
     IELTSReady
-    NandToTetrisReady
 
     BigDataReady
     AlgoCompetitionReady
     PythonReady, CTFReady
-    DataScienceReady
+    Machine learning ready
 
 
-
-openssh in linux video
-    setting up github ssh in ubuntu vm
-    checking in bash script into github
-
-java dates
+NodeJs by java brains
 
 Mongodb
+    installation on linux
+        rest of networkchuck linux
+        the shortvideo on adding ssh keys
+            checking in bash script into github
+        what is linux and what is gnu
+        gunpg
+        wget basics
+        curl basics
+        wget vs curl
+    for later
+        docker volumes
+        rest of the linux for hackers networkchuck course
+        pending: error with docker file for custom mongo
 spring with mongodb
+
+java dates
+    joda time
+    and how to use it in hibernate
+
 
 apache kafka
 spring with apache kafka
@@ -67,13 +80,18 @@ ansible networkchuck
 kubernets networkchuck
 fzf (Kris Ochipinti)
 sed of linux
+tmux https://www.youtube.com/playlist?list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe
 
-
+openssh in linux video
+    setting up github ssh in ubuntu vm
 
 tdd philosophy
 google guava cache
 memcached
 redis cache
+
+java 11 modules
+maven
 
 postman
 http basics
@@ -88,12 +106,19 @@ java websocket api
 java reactive programming java brains
 
 
+more on curl    
+    installing nvm using curl
+    more on .bashrc
+
+
 
 
 
 java ide basics
 
 
+just for fun
+    https://www.pluralsight.com/courses/math-for-programmers
 
 
 

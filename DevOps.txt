@@ -23,6 +23,11 @@ Linux
     Bash scripting
     Cygwin- our issue with it in azure desktop
     Ansible by networkchuck
+    TMUX https://www.youtube.com/playlist?list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe
+    FzF
+    Awesome linux utilties https://www.youtube.com/playlist?list=PLT98CRl2KxKGj5QRnY0-gRqPRkjuZXAzO
+    Linux TVs full guides
+
 
 Linux networking and webservices
     Video on port security Networkchuck

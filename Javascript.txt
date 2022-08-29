@@ -1,7 +1,9 @@
-Setting up dev environment for JS dev Pluralsight course
 Nodejs java brains
-Webassembly
+Setting up dev environment for JS dev Pluralsight course
 
 
-Kendojs
+Typesccript basics
+React
 Javascript videos from the famous guy
+
+Webassembly
