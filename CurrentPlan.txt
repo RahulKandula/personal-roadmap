@@ -1,10 +1,12 @@
 Keywords
     RPMFinalize, OATIReady
+    MathReady, CCNAReady, LinuxBasicsReady
     ReactReady, Tailwind/BootstrapReady, AWSEssentialServicesReady, QuarkusReady, FNPReady
-    MathReady, DSBookReady, NandToTetrisReady, DSReady, LeetCodeReady
+    DSBookReady, NandToTetrisReady, DSReady, algoexpert.io complete, LeetCodeReady
     Tuning.comReady
-    QuarkusReady, MicronautReady, SystemDesignReady 
+    SystemDesignReady 
     IELTSReady
+    QuarkusReady, MicronautReady, Kotlin And Graalvm ready,
 
     BigDataReady
     AlgoCompetitionReady
@@ -12,21 +14,27 @@ Keywords
     Machine learning ready
 
 
+Upgrading home network
+    wifi 6 https://www.youtube.com/watch?v=8cmmVEoftEM
+
 NodeJs by java brains
 
 Mongodb
-    installation on linux
-        rest of networkchuck linux
-        the shortvideo on adding ssh keys
+    installation of mongodb on linux
+        quickie on ssh keys https://www.youtube.com/watch?v=dPAw4opzN9g
+        the shortvideo on adding ssh keys https://www.youtube.com/watch?v=vpk_1gldOAE
             checking in bash script into github
-        what is linux and what is gnu
-        gunpg
-        wget basics
-        curl basics
+        what is linux and what is gnu https://www.youtube.com/watch?v=RNeKYjWx-s4
+        gunpg https://www.youtube.com/watch?v=CEADq-B8KtI
+        wget basics https://www.youtube.com/watch?v=F80Z5qd2b_4
+        curl basics https://www.youtube.com/watch?v=7XUibDYw4mc
         wget vs curl
+        linux vs unix https://www.youtube.com/watch?v=jowCUo_UGts
+        rest of networkchuck linux
+        install mongodb on ubuntuuu
     for later
         docker volumes
-        rest of the linux for hackers networkchuck course
+        rest of the linux for hackers networkchuck courseYell
         pending: error with docker file for custom mongo
 spring with mongodb
 
@@ -81,6 +89,9 @@ kubernets networkchuck
 fzf (Kris Ochipinti)
 sed of linux
 tmux https://www.youtube.com/playlist?list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe
+grep,awk,sed
+vi, neovim
+https://www.youtube.com/watch?v=gnupOrSEikQ
 
 openssh in linux video
     setting up github ssh in ubuntu vm
@@ -104,6 +115,9 @@ java websocket api
 
 
 java reactive programming java brains
+promeheus  and grafana
+
+
 
 
 more on curl    
@@ -121,7 +135,10 @@ just for fun
     https://www.pluralsight.com/courses/math-for-programmers
 
 
-
+understanding jvm complete series pluralsight
+jdk flight recorder + mission control
+eclipse mat tool
+Blaze persistence
 
 
     API

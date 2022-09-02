@@ -3,6 +3,9 @@ Java
     Working with nulls
     Apache http client
     JVM Memory management basics
+    Functional programming
+        Optional
+        Streams with map, flatmap and collect
 
 Spring
     REST
@@ -25,7 +28,7 @@ Devops
         Networking
             Subnetting by network chuck
         Bash scripting
-    Curl
+    scp, Curl
     Git and Egit
         reverting commits
         push into remote using git
@@ -62,3 +65,7 @@ Postman
 
 Javascript
     NodeJS
+
+
+CCNA + Upgrading home network
+    Switch

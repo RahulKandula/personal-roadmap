@@ -1,5 +1,6 @@
 Boot apps
     Hosting them in local and deploying them back in prod
+    Different boot apps
     Testing with postman
     PENDING - need to try testing with curl
 
@@ -14,11 +15,12 @@ Scanner
     Shifted Inventory transfer code to a new branch
 
 Stonhard 
-    Salesforce app
+    Salesforce Boot app
         Send ob status name to salesforce
         Populate ACCOUNT_PRODUCT_LINES and ACCOUNTS_PROTECTED from Salesforce
         Call SFA Account update anonymous link from the app
     SFA App
+        Replicated Accepting WO issue
         Add a new Terr type mapping
         Sfa anonymous link to call AccountAction.save
         Send Quote and Ob deletes status to Salesforce
@@ -31,10 +33,14 @@ Stonhard
         Enable max price break in SFA
         Debugged price issue with one product
         Fixed NPE in Forecasting app updates - old forecasting ear in the server
+    Stonhard3 Boot App
+        Fix LN Account BP update logic
+        Update Address changes as per SFA3
+
 
 
 SBP Merge
-    Fix Account and Quote security to filter house account territories
+    Fix Account and Quote security to filter house account territories. Ran jobs to correct terrs.
     Fix ForecastingWar sbp merge errors
     Fix TM dropdowns in Commissions page. Inactive people filter
     Fix failing Stonhard jobs
@@ -42,6 +48,10 @@ SBP Merge
     Fix Qa22 - DetermineHighestRep and House_account.
     Copy paste issue in QuotesWar.createObFromQa22
     Fix active and closed project search in quotes
+
+    Fix house_account not filtering in SalesforceBootApi
+
+
 
 
 Errors
