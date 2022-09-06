@@ -1,0 +1,40 @@
+-- Linux
+
+which nano|vi
+cat, touch, >> , | , pwd cd ls -la, scp, cp, mv
+
+apt edit-sources
+apt update && apt full-upgrade
+apt install 
+apt purge | remove
+apt list
+apt list-installed | grep ^nano
+apt show nano
+apt install snapd
+
+ssh-keygen -t rsa -b 4096
+
+
+
+-- Docker
+
+docker pull centos
+docker build -t domainlister .
+docker rmi image
+
+docker run -dt --name jenkins -p 8080:8080 -p 5000:5000
+        -v jenkins_home/var/lib:lib/jenkins_home jenkins:latest
+
+docker start|stop|rm containername
+
+docker ps
+docker stats
+
+docker exec -it -u 0 centos bash
+
+docker logs jenkins
+
+
+
+--ccna
+show mac-address-table

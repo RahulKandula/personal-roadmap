@@ -15,20 +15,28 @@ Keywords
 
 
 Upgrading home network
+    Networkchuck complete CCNA tutorial
     wifi 6 https://www.youtube.com/watch?v=8cmmVEoftEM
+
+Complete networkchuck
+Bit of git
+Check git scripts prepared by Jon
 
 NodeJs by java brains
 
 Mongodb
     installation of mongodb on linux
-        quickie on ssh keys https://www.youtube.com/watch?v=dPAw4opzN9g
+        ✓ quickie on ssh keys https://www.youtube.com/watch?v=dPAw4opzN9g
+        openssh server full https://www.youtube.com/results?search_query=openssh+server+linux
         the shortvideo on adding ssh keys https://www.youtube.com/watch?v=vpk_1gldOAE
-            checking in bash script into github
+        quick video on ssh-agent
+        checking in bash script into github
         what is linux and what is gnu https://www.youtube.com/watch?v=RNeKYjWx-s4
         gunpg https://www.youtube.com/watch?v=CEADq-B8KtI
         wget basics https://www.youtube.com/watch?v=F80Z5qd2b_4
         curl basics https://www.youtube.com/watch?v=7XUibDYw4mc
         wget vs curl
+        http headers https://www.youtube.com/watch?v=riPSW5P127M
         linux vs unix https://www.youtube.com/watch?v=jowCUo_UGts
         rest of networkchuck linux
         install mongodb on ubuntuuu
@@ -37,6 +45,12 @@ Mongodb
         rest of the linux for hackers networkchuck courseYell
         pending: error with docker file for custom mongo
 spring with mongodb
+
+linux
+    - after networkchuck
+    cygwin
+    solve our cygwin problem in azure desktop
+    cygwin vs putty
 
 java dates
     joda time

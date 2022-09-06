@@ -1,11 +1,12 @@
 Java
-    Threads
-    Working with nulls
-    Apache http client
-    JVM Memory management basics
     Functional programming
         Optional
         Streams with map, flatmap and collect
+    Working with nulls
+    Apache http client
+    JVM Memory management basics
+    Threads
+
 
 Spring
     REST
@@ -15,10 +16,12 @@ Spring
     Logging
     Actuator
     Testing
+    Jackson
     HATEOAS
 
 Devops
     Linux
+        Directories
         Virtualization
             Hyper-V
             Docker 
@@ -28,11 +31,9 @@ Devops
         Networking
             Subnetting by network chuck
         Bash scripting
-    scp, Curl
-    Git and Egit
-        reverting commits
-        push into remote using git
-    Jenkins
+        wsl in windows - /mnt/host/c/
+        ssh keygen
+        Jenkins
 
 OOPs
     House with proper well defined rooms like prepare() and with complete healthy state
@@ -40,6 +41,7 @@ OOPs
 
 Eclipse
     Debugging
+    Perspectives
 
 Javascript
     jquery document ready functions
@@ -57,6 +59,10 @@ Struts2
     Prepare
     Filter chains
 
+Hibernate 
+    initialize lazy collections
+    flush, merge
+
 
 Postman
     Sending all types of requests with basic and bearer authentication
@@ -69,3 +75,16 @@ Javascript
 
 CCNA + Upgrading home network
     Switch
+
+
+
+
+
+Git and Egit
+    reverting commits
+    push into remote using git commands
+    understanding git merge conflict
+
+
+Misc
+    diff using vs code

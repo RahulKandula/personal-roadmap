@@ -34,7 +34,8 @@ Stonhard
         Debugged price issue with one product
         Fixed NPE in Forecasting app updates - old forecasting ear in the server
     Stonhard3 Boot App
-        Fix LN Account BP update logic
+        Fix LN Account BP update logic by not calling anonymous link
+        Fix error with quote.terr lazy load in quote get rest
         Update Address changes as per SFA3
 
 
