@@ -1,0 +1,7 @@
+Stonhard3 accounts
+    fixed usernameutils.getrelationname method
+    corrected few queries to rely on existing hier views
+
+java date and time
+
+followed up on eric issue on his quote page

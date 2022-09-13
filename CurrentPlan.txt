@@ -14,13 +14,22 @@ Keywords
     Machine learning ready
 
 
+-- Git
+    https://app.pluralsight.com/library/courses/master-git/table-of-contents
+    https://app.pluralsight.com/library/courses/advanced-git-techniques/table-of-contents
+    https://app.pluralsight.com/library/courses/git-advanced-tips-tricks/table-of-contents
+    linux bash scripting from networkchuk
+    Check git scripts prepared by Jon
+
 Upgrading home network
     Networkchuck complete CCNA tutorial
     wifi 6 https://www.youtube.com/watch?v=8cmmVEoftEM
 
 Complete networkchuck
-Bit of git
-Check git scripts prepared by Jon
+
+git
+    egit
+
 
 NodeJs by java brains
 
@@ -31,7 +40,7 @@ Mongodb
         the shortvideo on adding ssh keys https://www.youtube.com/watch?v=vpk_1gldOAE
         quick video on ssh-agent
         checking in bash script into github
-        what is linux and what is gnu https://www.youtube.com/watch?v=RNeKYjWx-s4
+        what is linux and what is gnu and what is openbsd project https://www.youtube.com/watch?v=RNeKYjWx-s4
         gunpg https://www.youtube.com/watch?v=CEADq-B8KtI
         wget basics https://www.youtube.com/watch?v=F80Z5qd2b_4
         curl basics https://www.youtube.com/watch?v=7XUibDYw4mc
@@ -40,8 +49,10 @@ Mongodb
         linux vs unix https://www.youtube.com/watch?v=jowCUo_UGts
         rest of networkchuck linux
         install mongodb on ubuntuuu
+
+        docker volumes | docker compose | docker networking
+        linux networking basics
     for later
-        docker volumes
         rest of the linux for hackers networkchuck courseYell
         pending: error with docker file for custom mongo
 spring with mongodb
@@ -55,41 +66,38 @@ linux
 java dates
     joda time
     and how to use it in hibernate
+java io basics
+    downloading files in spring boot
+java annotations
+java generics
+Basics of oop
+    https://app.pluralsight.com/library/courses/solid-software-design-principles-java/table-of-contents
+    https://app.pluralsight.com/library/courses/fundamentals-object-oriented-programming-java/table-of-contents
+java ff from douglas schmidt
 
 
 apache kafka
-spring with apache kafka
+    spring with apache kafka
 
-java io basics
-downloading files in spring boot
+
 
 rest of spring security
-webclient with outh2 in place
+    webclient with outh2 in place
+
 
 sonarqube basics
 
 
-java annotations
-java generics
-
-
-
 junit, mockito and mockmvc
 
-java ff from douglas schmidt
 
 influx db (influx university)
 spring with influx db
 
 jenkins
 maven
-linux for everyone from networkchuk
-linux bash scripting from networkchuk
-sed and awk
-Docker compose
-git
-egit
 
+sed and awk
 
 using h2 for unit testing
 
@@ -291,6 +299,28 @@ Insults
     what do you do in your free time!!
     it is a complex system - can you even handle it!
 
+    S
+        i dont have a cc on me nor am i gonna give you any money
+        look around what others your age are doing
+        ok! you have not done this due to your laziness - ...
+        you wanna go cycling ! dont you will be on the bed all day
+        look at other folks they are successful / they workout all day hence they can indulge in a bit of drinking 
+
 
 More official channels
     https://www.youtube.com/c/SpringBootLearning/playlists
+
+
+
+
+- follow up needed
+    openssh video
+        what is openbsd project - it gave rise to openssh!
+        more on fingerprints we get from servers and store in known hosts
+    network chuck n/t
+        after pluralsight course on basic computer arithmetic 
+                1. is mbps bits or bytes
+                2. diff btw 32 bit vs 64bit
+    java date time
+        threeten-extra library
+        issues with java.util.Date and Calendar classes

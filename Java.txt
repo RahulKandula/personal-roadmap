@@ -24,7 +24,8 @@ Java
         (Intro) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5IXdKoYi32ZaAshVN3jpCz
         (In depth) https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7aa8ZEWpoFOf_lNn-4YN5E
         
-
+    Java date and time
+        https://app.pluralsight.com/library/courses/java-dates-times-programming/table-of-contents
 
     JVM 
         (JVM Memory management) https://app.pluralsight.com/library/courses/understanding-java-vm-memory-management/table-of-contents

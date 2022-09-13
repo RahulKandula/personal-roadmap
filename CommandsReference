@@ -1,9 +1,15 @@
 -- Linux
 
+date
+
 which nano|vi
 cat, touch, >> , | , pwd cd ls -la, scp, cp, mv
 
+su -u, sudo
+sudo -u springboot
+
 apt edit-sources
+apt search openssh-client
 apt update && apt full-upgrade
 apt install 
 apt purge | remove
@@ -12,6 +18,7 @@ apt list-installed | grep ^nano
 apt show nano
 apt install snapd
 
+apt install openssh-client
 ssh-keygen -t rsa -b 4096
 
 
@@ -37,4 +44,6 @@ docker logs jenkins
 
 
 --ccna
+enable
 show mac-address-table
+show ip route 

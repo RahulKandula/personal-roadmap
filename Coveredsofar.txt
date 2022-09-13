@@ -7,11 +7,12 @@ Java
     JVM Memory management basics
     Threads
 
+    Java date and time 
 
 Spring
     REST
     Data jpa
-    JDBC
+    JDBC 
     Security + Oauth2 + OpenId
     Logging
     Actuator
@@ -26,9 +27,12 @@ Devops
             Hyper-V
             Docker 
         Core
-            package managers
+            package managers dpkg,apt,snaps
             common linux folders
         Networking
+            ssh ing
+            OSI TCP/IP Model
+            Enterprise networking
             Subnetting by network chuck
         Bash scripting
         wsl in windows - /mnt/host/c/
@@ -48,7 +52,8 @@ Javascript
 
 Databases
     Oracle DB
-        Basic query tuning
+        Basic query tuning we did for postal codes
+        Speifying conditions in join ON
     MongoDB
         Overview, Installation
 
@@ -68,22 +73,18 @@ Postman
     Sending all types of requests with basic and bearer authentication
 
 
-
 Javascript
     NodeJS
 
 
 CCNA + Upgrading home network
-    Switch
-
-
-
+    Switch + Router + OSI TCP/IP model
 
 
 Git and Egit
     reverting commits
     push into remote using git commands
-    understanding git merge conflict
+    understanding git merge conflict syntax
 
 
 Misc

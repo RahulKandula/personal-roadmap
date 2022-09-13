@@ -34,9 +34,12 @@ Stonhard
         Debugged price issue with one product
         Fixed NPE in Forecasting app updates - old forecasting ear in the server
     Stonhard3 Boot App
-        Fix LN Account BP update logic by not calling anonymous link
+        Fix LN Account BP update logic by not calling anonymous link and updating ln accounts from SF to accounts_baan
         Fix error with quote.terr lazy load in quote get rest
         Update Address changes as per SFA3
+
+Stonhard3
+    Merged accountswar master -> sbp
 
 
 
@@ -52,6 +55,8 @@ SBP Merge
 
     Fix house_account not filtering in SalesforceBootApi
 
+    More build errros in Sfa3 projects and Fibergrate projects
+
 
 
 
@@ -63,3 +68,10 @@ Errors
     Using PlatformTransactionMgr, TransactionTemplate, ApplicationEventManager, @Transaction in another @Transactional
     Serverpeerid missing in local
     Not checking out StonhardUiEar, StonhardBaanReportsWar
+
+
+
+Code Reviews
+    Jyothi
+        VacationWar - Let non admin save display his reportees vacation calendar 
+        NotesSSOEar - giving people access to change passwords via IS group
