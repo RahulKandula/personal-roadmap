@@ -3,11 +3,12 @@
 date
 
 which nano|vi
-cat, touch, >> , | , pwd cd ls -la, scp, cp, mv
+cat, touch, >> , &&, pwd cd ls -la, scp, cp, mv
 
 su -u, sudo
 sudo -u springboot
 
+-- apt
 apt edit-sources
 apt search openssh-client
 apt update && apt full-upgrade
@@ -18,9 +19,18 @@ apt list-installed | grep ^nano
 apt show nano
 apt install snapd
 
+
+
+-- ssh
 apt install openssh-client
 ssh-keygen -t rsa -b 4096
 
+
+-- webservice
+python3 -m http.server 7600
+npx http-server -p 7800
+php -S localhost:8080
+/etc/apache2/ports.conf. systemctl start apache2
 
 
 -- Docker

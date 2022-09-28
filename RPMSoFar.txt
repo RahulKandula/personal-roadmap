@@ -19,6 +19,7 @@ Stonhard
         Send ob status name to salesforce
         Populate ACCOUNT_PRODUCT_LINES and ACCOUNTS_PROTECTED from Salesforce
         Call SFA Account update anonymous link from the app
+        Fix carriage return issue in Addresses
     SFA App
         Replicated Accepting WO issue
         Add a new Terr type mapping
@@ -36,10 +37,12 @@ Stonhard
     Stonhard3 Boot App
         Fix LN Account BP update logic by not calling anonymous link and updating ln accounts from SF to accounts_baan
         Fix error with quote.terr lazy load in quote get rest
-        Update Address changes as per SFA3
+        Removed padding in adminpkids.tablename
+        Update Address changes as per SFA3 (pending)
 
 Stonhard3
     Merged accountswar master -> sbp
+    Fixed few small queries for Account edit screen. Like getrelationname query in Utils package!
 
 
 

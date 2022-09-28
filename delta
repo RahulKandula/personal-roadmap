@@ -1,7 +1,22 @@
-Stonhard3 accounts
-    fixed usernameutils.getrelationname method
-    corrected few queries to rely on existing hier views
 
-java date and time
+- checking quote scorecard for Eric issue
+- figured out how to correct classnotfound exception in case of non master branches
+- corrected utils/Usernameutils ln queries
+- fixing dropdown queries in Stonhard3Accounts
+    dropdowns and accountquerybuilder (all hier_tables)
 
-followed up on eric issue on his quote page
+
+To check
+    regular expressions
+    how does threadlocal work
+        https://www.youtube.com/watch?v=a_BoqsnVR2U
+        how does virtualnamehostutils work
+        there is one change we need to do based on this in stonhard3
+    Oracle indexes
+        used in accountgrid search query
+    Git tutorial
+        need to explore scripts prepared by Jon so that we can use them to checkout multiple sbp projects
+    Rest of networkchuck linux -> rest of bash scripting -> rest of learnlinuxtv ssh -> check in bash scripts -> check out jon git scripts
+        -> rest of networkchuck ccna
+        -> https://app.pluralsight.com/library/courses/linux-managing-web-services-lpic-2/table-of-contents
+        -> move onto learning on jboss

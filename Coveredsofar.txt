@@ -22,22 +22,23 @@ Spring
 
 Devops
     Linux
-        Directories
         Virtualization
             Hyper-V
             Docker 
         Core
+            Common Directories
             package managers dpkg,apt,snaps
-            common linux folders
+            webservices
         Networking
-            ssh ing
-            OSI TCP/IP Model
-            Enterprise networking
-            Subnetting by network chuck
+            ssh ing via open ssh
         Bash scripting
         wsl in windows - /mnt/host/c/
-        ssh keygen
         Jenkins
+        Linux / CCNA Networking
+            Subnetting by network chuck
+            Switch + Router + OSI TCP/IP model
+            Enterprise level networking
+
 
 OOPs
     House with proper well defined rooms like prepare() and with complete healthy state
@@ -54,8 +55,9 @@ Databases
     Oracle DB
         Basic query tuning we did for postal codes
         Speifying conditions in join ON
+        With, Merge
     MongoDB
-        Overview, Installation
+        Why, Installation
 
 Struts2
     Chaining interceptors
@@ -75,10 +77,6 @@ Postman
 
 Javascript
     NodeJS
-
-
-CCNA + Upgrading home network
-    Switch + Router + OSI TCP/IP model
 
 
 Git and Egit
