@@ -33,6 +33,7 @@ Devops
             ssh ing via open ssh
         Bash scripting
         wsl in windows - /mnt/host/c/
+        TMUX
         Jenkins
         Linux / CCNA Networking
             Subnetting by network chuck
@@ -60,7 +61,7 @@ Databases
         Why, Installation
 
 Struts2
-    Chaining interceptors
+    Chaining interceptor
     Global results
     Chain result
     Prepare

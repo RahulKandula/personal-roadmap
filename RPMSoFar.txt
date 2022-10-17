@@ -34,16 +34,22 @@ Stonhard
         Enable max price break in SFA
         Debugged price issue with one product
         Fixed NPE in Forecasting app updates - old forecasting ear in the server
+        Check score card error for Eric
     Stonhard3 Boot App
         Fix LN Account BP update logic by not calling anonymous link and updating ln accounts from SF to accounts_baan
         Fix error with quote.terr lazy load in quote get rest
         Removed padding in adminpkids.tablename
         Update Address changes as per SFA3 (pending)
-
-Stonhard3
-    Merged accountswar master -> sbp
-    Fixed few small queries for Account edit screen. Like getrelationname query in Utils package!
-
+        Verified all boot api - quotes, ob and cef to confirm if they are working for LN
+    Stonhard3
+        Fix account search  
+            Dropdown class, Accountquery
+            Remove Top 25, next 75
+            Fix post processing part of Adv search query
+        Fixed few small queries for Account edit screen. 
+            getrelationname query in Utils package!
+            Adjust address entity without padding
+            Remove next action complete code
 
 
 SBP Merge
@@ -57,10 +63,7 @@ SBP Merge
     Fix active and closed project search in quotes
 
     Fix house_account not filtering in SalesforceBootApi
-
     More build errros in Sfa3 projects and Fibergrate projects
-
-
 
 
 Errors
@@ -68,10 +71,15 @@ Errors
     Older hibernate id generation
     Char columns to have padded spaces when used in Hibernate key
     Not commiting transactions before calling other anonymous links
-    Using PlatformTransactionMgr, TransactionTemplate, ApplicationEventManager, @Transaction in another @Transactional
-    Serverpeerid missing in local
+    Serverpeerid missing in local - could not connect to jms error also due to this
     Not checking out StonhardUiEar, StonhardBaanReportsWar
+    figured out how to correct classnotfound exception in case of non master branches
 
+
+Server maintenance
+    General info on servers /etc/cron.d /etc/init.d?
+    How to check if a server is up
+    And restart servers
 
 
 Code Reviews

@@ -1,17 +1,28 @@
 
-- checking quote scorecard for Eric issue
-- figured out how to correct classnotfound exception in case of non master branches
-- corrected utils/Usernameutils ln queries
-- fixing dropdown queries in Stonhard3Accounts
-    dropdowns and accountquerybuilder (all hier_tables)
-
-
 To check
-    regular expressions
+    Proxy pattern && proxy through subclassing
+    Template pattern
+    Practice the whole of spring boot transaction article we read on.
+    Hikari connection pooling https://github.com/brettwooldridge/HikariCP
+        Along with spring boot properties support for it
+
     how does threadlocal work
         https://www.youtube.com/watch?v=a_BoqsnVR2U
         how does virtualnamehostutils work
         there is one change we need to do based on this in stonhard3
+
+    Java date and time
+    Move to linux apache httpd, jboss eap, complete 
+    
+    db transactions in general and with spring
+    Isolation levels - https://www.postgresql.org/docs/9.5/transaction-iso.html
+    A bit more on transactional pitfall - https://stackoverflow.com/questions/43280460/spring-self-injection-for-transactions/43282215
+
+    
+
+    distributed transactions and reactive transactions
+    accumulator anti pattern
+    regular expressions
     Oracle indexes
         used in accountgrid search query
     Git tutorial
@@ -20,3 +31,9 @@ To check
         -> rest of networkchuck ccna
         -> https://app.pluralsight.com/library/courses/linux-managing-web-services-lpic-2/table-of-contents
         -> move onto learning on jboss
+    all our notebook articles
+
+
+    Spring boot autoconfiguration
+        https://www.youtube.com/watch?v=jDchAEHIht0
+    bytecode weaving
