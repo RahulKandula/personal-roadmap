@@ -8,6 +8,8 @@ cat, touch, >> , &&, pwd cd ls -la, scp, cp, mv
 su -u, sudo
 sudo -u springboot
 
+find . | grep springboot
+
 -- apt
 apt edit-sources
 apt search openssh-client

@@ -1,0 +1,28 @@
+Strict-transport-policy: max-age=<expire-time>; includeSubDomains; preload
+Content-security-policy: upgrade-insecure-requests
+Content-security-policy-Report-Only 
+Set-cookie: w_session_id=12; SameSite=none
+X-FRAME-OPTIONS
+
+
+More
+    Reading request headers in spring
+        https://www.baeldung.com/spring-rest-http-headers
+    Setting respone headers in spring
+        https://www.baeldung.com/spring-response-header
+    What is with meta tag's http-eqiv
+    How to set / read cookies from spring   
+        https://attacomsian.com/blog/cookies-spring-boot
+        from JS https://attacomsian.com/blog/javascript-cookies
+    what the f is samesite in set-cookie header?!!
+        https://web.dev/samesite-cookies-explained/
+
+
+    More examples of each in real time
+    How to csp inline js
+
+    Rest of the video
+
+Ref
+    https://httparchive.org/reports/loading-speed
+    https://whatdoesmysitecost.com/

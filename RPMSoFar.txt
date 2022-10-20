@@ -71,14 +71,14 @@ Errors
     Older hibernate id generation
     Char columns to have padded spaces when used in Hibernate key
     Not commiting transactions before calling other anonymous links
-    Serverpeerid missing in local - could not connect to jms error also due to this
+    Serverpeerid missing in local - could not connect to jms error is also due to this
     Not checking out StonhardUiEar, StonhardBaanReportsWar
     figured out how to correct classnotfound exception in case of non master branches
 
 
 Server maintenance
     General info on servers /etc/cron.d /etc/init.d?
-    How to check if a server is up
+    How to check if a server is up - grepjava
     And restart servers
 
 

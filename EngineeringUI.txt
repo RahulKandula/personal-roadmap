@@ -1,1 +1,5 @@
 Typography course on freecodecamp
+
+
+HTTP
+    Http headers goto https://www.youtube.com/watch?v=JfjiFsJsO4E

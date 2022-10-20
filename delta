@@ -1,23 +1,110 @@
+To jacob next one to one
+    keypass
+    http headers
+    complete linux leading upto jboss eap
+    java memmory course
 
 To check
-    Proxy pattern && proxy through subclassing
-    Template pattern
-    Practice the whole of spring boot transaction article we read on.
-    Hikari connection pooling https://github.com/brettwooldridge/HikariCP
-        Along with spring boot properties support for it
+
+    SBP Significant contributor
+    Server maintenance, jvm memory aware, git, tdd and functional programming
+    Kendo JS aware, Struts2 filters aware
+    Maven and node setup aware
+    
+
+
+    ln  from team channels and documentation
+    grep command video
+    find command along with find -exec and find -execdir
 
     how does threadlocal work
         https://www.youtube.com/watch?v=a_BoqsnVR2U
         how does virtualnamehostutils work
         there is one change we need to do based on this in stonhard3
 
+
+    http headers
+        Reading request headers in spring
+            https://www.baeldung.com/spring-rest-http-headers
+        Setting respone headers in spring
+            https://www.baeldung.com/spring-response-header
+        What is with meta tag's http-eqiv
+        How to set / read cookies from spring   
+            https://attacomsian.com/blog/cookies-spring-boot
+            from JS https://attacomsian.com/blog/javascript-cookies
+
+        
+        Java file streams course on youtube
+        That video on how to setup spring boot to upload and download file
+        Curl and wget
+        Apache httpd
+        subnetting last video
+        Port security by networkchuk
+        jboss eap complete video series
+        rest of videos on networking by networkchuck
+
+
+        what the f is samesite in set-cookie header?!!
+            https://web.dev/samesite-cookies-explained/
+        More examples of each in httpheaders file in real time
+        How to csp inline js
+        Rest of the video
+        Spring 5 core
+        Spring MVC
+
+    Git 7 hour course
+    networkchuck bash scripting
+    rest of networkchuk linux for all
+    Jon's git bash scripts
+    egit
+
+    https://app.pluralsight.com/paths/skills/unit-testing-in-java
+
+
+
+    (diff btw usr and home) https://askubuntu.com/questions/130186/what-is-the-rationale-for-the-usr-directory
+    Template pattern
+    Proxy pattern && proxy through subclassing
+    Practice the whole of spring boot transaction article we read on.
+    Hikari connection pooling https://github.com/brettwooldridge/HikariCP
+        Along with spring boot properties support for it
+        more on spring jpa
+        more on spring jdbc
+
+
+
+
+ 
     Java date and time
     Move to linux apache httpd, jboss eap, complete 
+    rest of networkchuck
+
+
+    Maven
+        Setting up JS environment 
+        Nodejs
+        Struts 2
+        JS Objects and prototypes by Kaushik
+        KendoJS
+        Simpson courses
+
     
+    All of our Java notebook
+
+
+
+    Database essentials course on pluralsight - table spaces and indexes 
+        How to use hints in queries
+        Advanced sql
+
+
+
     db transactions in general and with spring
     Isolation levels - https://www.postgresql.org/docs/9.5/transaction-iso.html
     A bit more on transactional pitfall - https://stackoverflow.com/questions/43280460/spring-self-injection-for-transactions/43282215
 
+
+    Check out the currentplan.txt file here
     
 
     distributed transactions and reactive transactions

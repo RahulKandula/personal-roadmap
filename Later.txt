@@ -1,0 +1,9 @@
+Keypass
+    Plugins
+        https://www.youtube.com/watch?v=5JD6bBDCs2A
+    Keypass for iphone
+    Delete all passwords from the browser
+    Refer to Jacob doc on this
+
+Oracle
+    More on xmltype

@@ -7,8 +7,6 @@ Java
     JVM Memory management basics
     Threads
 
-    Java date and time 
-
 Spring
     REST
     Data jpa
@@ -56,7 +54,8 @@ Databases
     Oracle DB
         Basic query tuning we did for postal codes
         Speifying conditions in join ON
-        With, Merge
+        With, Merge,
+        Cross join
     MongoDB
         Why, Installation
 
@@ -86,5 +85,11 @@ Git and Egit
     understanding git merge conflict syntax
 
 
+HTTP
+    Http security headers
+
+
 Misc
     diff using vs code
+    Keypass
+
