@@ -36,6 +36,7 @@ Stonhard
         Fixed NPE in Forecasting app updates - old forecasting ear in the server
         Check score card error for Eric
     Stonhard3 Boot App
+        Send Order number in a complex req to quote, opp and order brief api
         Fix LN Account BP update logic by not calling anonymous link and updating ln accounts from SF to accounts_baan
         Fix error with quote.terr lazy load in quote get rest
         Removed padding in adminpkids.tablename
