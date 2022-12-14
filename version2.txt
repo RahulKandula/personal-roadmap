@@ -1,0 +1,4 @@
+1. server maintenance script location
+2. how to trigger 52week summary job in fibergrate
+3. jndi basics
+4. QC app fixes for LN version
