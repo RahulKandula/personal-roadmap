@@ -2,3 +2,10 @@
 2. how to trigger 52week summary job in fibergrate
 3. jndi basics
 4. QC app fixes for LN version
+    Where the translations are
+    the general QC flow
+
+
+5. Installing oracle CDB and PDB on azure vm. Start/stop its service
+    oracle_home and TNS_ADMIN
+6. got to know of user_id_mappings from baan to ln
