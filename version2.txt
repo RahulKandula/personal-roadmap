@@ -1,11 +1,25 @@
-1. RPM server maintenance script location
-2. how to trigger 52week summary job in fibergrate
-3. jndi basics
-4. QC app fixes for LN version
-    Where the translations are
-    the general QC flow
+Knockoutjs
+jndi basics
+Installing oracle CDB and PDB on azure vm. Start/stop its service
+   oracle_home and TNS_ADMIN
+Export and import utilities of sql developer
 
 
-5. Installing oracle CDB and PDB on azure vm. Start/stop its service
-    oracle_home and TNS_ADMIN
-6. got to know of user_id_mappings from baan to ln
+RPM server maintenance script location /etc/japps4/cron.d ?
+
+
+Installers
+   Mapping suppliers to LN
+QC app fixes for LN version
+   Logging, retaining, status, characteristics, i18n
+Most of the details in 52 week summary and how they are fetched
+   Backtracking from 52week data to actual data
+   handling historical data
+
+
+Trigger 52week summary job in fibergrate
+user_id_mappings from baan to ln and emp ids.
+
+
+errs
+not specifying length on char columns in hibernate entities in sfa quality control app
