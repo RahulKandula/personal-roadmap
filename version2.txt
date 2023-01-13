@@ -1,25 +1,28 @@
-Knockoutjs
-jndi basics
-Installing oracle CDB and PDB on azure vm. Start/stop its service
-   oracle_home and TNS_ADMIN
-Export and import utilities of sql developer
+Knockoutjs  
+Spring mvc
+   Of tier-ing spring mvc
+Git and Github
 
 
-RPM server maintenance script location /etc/japps4/cron.d ?
+
+QC App in LN - minitab
+Fifty Two week app - weekly details, ln ar job
+Stonhard reports - AR Reports, Ar draft comments
+Baan iv to LN maping - suppliers, customers, sfauserids, employee and relation ids
 
 
-Installers
-   Mapping suppliers to LN
-QC app fixes for LN version
-   Logging, retaining, status, characteristics, i18n
-Most of the details in 52 week summary and how they are fetched
-   Backtracking from 52week data to actual data
-   handling historical data
+
+Consuming LN BDEs in our java code + accepting dates, admin config.getasmap, changing company
+Deploying ears in training
+Export import jobs from SQL Developer
+Checking server restart scripts
 
 
-Trigger 52week summary job in fibergrate
-user_id_mappings from baan to ln and emp ids.
+Hall of errors
+   leaving out length in entities when other flags in entitymanager of rpm
 
 
-errs
-not specifying length on char columns in hibernate entities in sfa quality control app
+To look into
+   what is process of building a jaxbdate node in few bdes for date input
+   configuring jndi datasource in tomcat
+   douglas schmidt scalable microservices
